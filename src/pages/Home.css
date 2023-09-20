@@ -1,0 +1,21 @@
+.card-container {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+  }
+  
+  .card {
+    width: 30%; /* Lebar setiap kartu, sesuaikan sesuai kebutuhan */
+    margin-bottom: 20px; /* Jarak antara kartu */
+  }
+  
+  .card-img-top {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .card-title {
+    text-align: center;
+    font-weight: bold;
+  }
+  
